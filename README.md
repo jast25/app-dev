@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-**current games I played with my redlight friends in Roblox are:*
+**current games I played with my redlight friends in Roblox are:**
 1. Pressure
 2. Obscure
 3. FNAF
